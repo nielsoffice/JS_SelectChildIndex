@@ -49,7 +49,7 @@ JavaScript / jQuery Select the child index and do something!
 
 ```
 
-
+<br /> Result : https://github.com/nielsoffice?tab=repositories | keyword : child
 <br /> Related:
 <br /> https://github.com/nielsoffice/JSGetChildArrayByKey
 <br /> https://github.com/nielsoffice/SelectChildFromParentElement_jQuery
