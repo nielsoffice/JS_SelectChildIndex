@@ -30,6 +30,14 @@ JavaScript / jQuery Select the child index and do something!
       3 <div class="data"> four </div>
       */
 
+     // ALSO
+     let childs = jQuery('#data_control').children();  
+     // Selecting first child 
+     childs.first().click(function() { console.log('Get first') });
+
+     // jQuery('.data:eq(indexNumber)').click(function() { console.log('Get first') });  ex second index as 0 the first index
+     jQuery('.data:eq(1)').click(function() { console.log('Get two') }); 
+
     });
   });
 
