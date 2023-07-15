@@ -48,3 +48,9 @@ JavaScript / jQuery Select the child index and do something!
 </html>
 
 ```
+
+
+<br /> Related:
+<br /> https://github.com/nielsoffice/JSGetChildArrayByKey
+<br /> https://github.com/nielsoffice/SelectChildFromParentElement_jQuery
+<br /> https://github.com/nielsoffice/JSGetParentsElemTraversing
